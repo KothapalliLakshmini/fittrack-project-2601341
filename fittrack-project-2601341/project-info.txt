@@ -1,9 +1,3 @@
 Project: FitTrack Mobile App
 Team: Development Team Alpha
-Start Date: February 2026
-
-Features:
-
-User authentication
-Workout tracking
-
+Start Date: January 2026
